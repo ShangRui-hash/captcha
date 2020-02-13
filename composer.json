@@ -1,0 +1,17 @@
+{
+    "name": "rerere/captcha",
+    "description": "this is a captcha",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rerere",
+            "email": "2227627947@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4":{"rerere\\captcha\\":"src"}
+    }
+}
